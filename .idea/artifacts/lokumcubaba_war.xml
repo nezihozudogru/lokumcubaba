@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lokumcubaba:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="lokumcubaba-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="lokumcubaba:war exploded" />
+    </root>
+  </artifact>
+</component>
